@@ -3,7 +3,7 @@
 Bem-vindo às minhas resoluções dos exercícios e desafios propostos durante o Bootcamp de Data Analytics da WoMakersCode!
 
 Por enquanto, este repositório contém apenas exercícios de bancos de dados.  
-Os seguintes exercícios podem ser encontrados em **[alunos.py](https://github.com/anaroyer/bootcamp-womakers-code/blob/main/alunos.py)**:
+Os seguintes exercícios podem ser encontrados em **[alunos.py](https://github.com/anaroyer/bootcamp-womakers-code/blob/main/exercícios-banco-de-dados/alunos.py)**:
 1. Crie uma tabela chamada "alunos" com os seguintes campos: id
 (inteiro), nome (texto), idade (inteiro) e curso (texto).
 2. Insira pelo menos 5 registros de alunos na tabela que você criou no
@@ -19,7 +19,7 @@ d) Contar o número total de alunos na tabela
 a) Atualize a idade de um aluno específico na tabela.  
 b) Remova um aluno pelo seu ID.
 
-E estes exercícios podem ser encontrados em **[clientes.py](https://github.com/anaroyer/bootcamp-womakers-code/blob/main/clientes.py)**:
+E estes exercícios podem ser encontrados em **[clientes.py](https://github.com/anaroyer/bootcamp-womakers-code/blob/main/exercícios-banco-de-dados/clientes.py)**:
 
 5. Criar uma Tabela e Inserir Dados
 Crie uma tabela chamada "clientes" com os campos: id (chave
